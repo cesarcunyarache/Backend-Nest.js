@@ -1,0 +1,8 @@
+{
+    "javascript.autoClosingTags": true,
+    "javascript.format.enable": true,
+    "typescript.surveys.enabled": true,
+    "typescript.check.npmIsInstalled": true,
+    "typescript.disableAutomaticTypeAcquisition": false,
+    "javascript.referencesCodeLens.showOnAllFunctions": false
+}
